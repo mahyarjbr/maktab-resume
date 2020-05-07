@@ -1,0 +1,80 @@
+{
+  "title": "Hello,I'm mahyar!",
+  "subtitle": "Front-End Dev | Sports Lover",
+  "links": {
+    "github": "https://github.com/mahyarjbr",
+    "stackoverflow": "https://stackoverflow.com/story/mahyarjbr",
+    "instagram": "https://www.instagram.com/hwemahiii74/"
+  },
+  "sections": [
+    {
+      "title": "about",
+      "items": [
+        {
+          "type": "p",
+          "content": "This is mahyar from Iran "
+        },
+        {
+          "type":"p",
+          "content":"I like coding and programing "
+        },
+        {
+          "type":"p",
+          "content":"now i work as Front-End Dev but in future i wanna be a Full Stack Dev"
+        }
+      ]
+    },
+    {
+      "title": "skills",
+      "items": [
+        {
+          "type": "cart",
+          "content": {
+            "image": "https://img.icons8.com/material-outlined/96/000000/react-native.png",
+            "title": "React"
+          }
+        },
+        {
+          "type": "cart",
+          "content": {
+            "image": "https://img.icons8.com/ios-filled/100/000000/javascript-logo.png",
+            "title": "JavaScript"
+          }
+        },
+        {
+          "type": "cart",
+          "content": {
+            "image": "https://img.icons8.com/material/96/000000/css3.png",
+            "title": "CSS"
+          }
+        },
+        {
+            "type": "cart",
+            "content": {
+              "image": "https://img.icons8.com/material/96/000000/html-5.png",
+              "title": "HTML"
+            }
+          },{
+            "type": "cart",
+            "content": {
+              "image": "https://img.icons8.com/metro/96/000000/python.png",
+              "title": "Python"
+            }
+          },
+          {
+            "type": "cart",
+            "content": {
+              "image": "https://img.icons8.com/material-two-tone/96/000000/django.png",
+              "title": "Django"
+            }
+          }
+      ]
+    }
+  ],
+  
+    "icons":{
+      "paint":"images/paintbrush.png",
+      "down":"images/down.png"
+    }
+  
+}
