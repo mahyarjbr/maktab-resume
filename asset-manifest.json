@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/maktab-resume/static/css/main.03851182.chunk.css",
+    "main.js": "/maktab-resume/static/js/main.183e1ef3.chunk.js",
+    "main.js.map": "/maktab-resume/static/js/main.183e1ef3.chunk.js.map",
+    "runtime-main.js": "/maktab-resume/static/js/runtime-main.6861e6f1.js",
+    "runtime-main.js.map": "/maktab-resume/static/js/runtime-main.6861e6f1.js.map",
+    "static/js/2.8211684c.chunk.js": "/maktab-resume/static/js/2.8211684c.chunk.js",
+    "static/js/2.8211684c.chunk.js.map": "/maktab-resume/static/js/2.8211684c.chunk.js.map",
+    "index.html": "/maktab-resume/index.html",
+    "precache-manifest.8e7b72f302b89b7bbbf8db9e0a0da9ed.js": "/maktab-resume/precache-manifest.8e7b72f302b89b7bbbf8db9e0a0da9ed.js",
+    "service-worker.js": "/maktab-resume/service-worker.js",
+    "static/css/main.03851182.chunk.css.map": "/maktab-resume/static/css/main.03851182.chunk.css.map",
+    "static/js/2.8211684c.chunk.js.LICENSE.txt": "/maktab-resume/static/js/2.8211684c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6861e6f1.js",
+    "static/js/2.8211684c.chunk.js",
+    "static/css/main.03851182.chunk.css",
+    "static/js/main.183e1ef3.chunk.js"
+  ]
+}
